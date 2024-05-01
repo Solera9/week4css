@@ -1,0 +1,25 @@
+* {
+    color: blueviolet;
+
+}
+body {
+    background-color:darkseagreen;
+}
+.colorbox {
+    background-color:coral;
+}
+
+#david h2, #david p {
+    color:teal;
+}
+#myarticle {
+    background-color:powderblue;
+    padding: 5px 50px 15px;
+    border: 15px;
+    border-color:red;
+    margin: 10px;
+}
+body, h1, h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
